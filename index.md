@@ -3,8 +3,10 @@
 ##也不会写页面
 ###怎么办
 #嘤嘤嘤
+
 ```javascript
 int main()
 {
-    cout<<"Hello world"<<endl;
+    cout<<"嘤嘤嘤嘤嘤嘤嘤嘤嘤"<<endl;
 }
+```
