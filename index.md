@@ -9,7 +9,7 @@
 嘤嘤嘤
 ### 怎么办
 
-```javascript
+```c++
 int main()
 {
     cout<<"嘤嘤嘤嘤嘤嘤嘤嘤嘤"<<endl;
