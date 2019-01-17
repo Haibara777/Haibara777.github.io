@@ -1,6 +1,3 @@
-<style type="text/css">
-    @import"./mystyle.css";
-</style>
 # Welcome to CaiJi's bolg
 
 #### 鉴于本菜鸡不会制作页面，所以只能用最简单的markdown来写博客，若博主将来学业有成，一定自己写一个好看的博客。
@@ -8,3 +5,10 @@
 ------------------------
 
 [2019-1-17 第一篇博客(A+B)](./2019/1/2019-1-17.md)
+
+
+
+
+<style type="text/css">
+    @import"./mystyle.css";
+</style>
