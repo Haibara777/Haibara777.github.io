@@ -1,5 +1,5 @@
 <style type="text/css">
-    @import"./mystyle";
+    @import"./mystyle.css";
 </style>
 # Welcome to CaiJi's bolg
 
