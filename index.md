@@ -1,4 +1,4 @@
-# Welcome to CaiJi's bolg
+# Welcome to CaiJi's blog
 
 ------------------------
 
