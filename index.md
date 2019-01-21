@@ -8,9 +8,3 @@
 
 [2019-1-21 CCPC-Wannafly Day2](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-21_day2.md)
 
-
-<script type="text/javascript"
-	src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML,
-	/javascripts/MathJaxLocal.js
-">
-</script>
