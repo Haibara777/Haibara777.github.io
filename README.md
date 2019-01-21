@@ -91,3 +91,15 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+formula1: $$n==x$$
+
+formula2: $$n!=x$$
+
+formula3: (m==y)
+
+formula4: [m!=y]
+
+formula5: \(k==z\)
+
+formula6: \[k!=z\]
