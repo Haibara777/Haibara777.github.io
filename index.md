@@ -8,3 +8,5 @@
 
 [2019-1-21 CCPC-Wannafly Day2](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-21_day2.md)
 
+[2019-1-22 CCPC-Wannafly Day3](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-22_day3.md)
+
