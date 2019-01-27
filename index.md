@@ -14,3 +14,9 @@
 
 [2019-1-24 CCPC-Wannafly Day5](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-24_day5.md)
 
+[2019-1-25 CCPC-Wannafly Day6](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-25_day6.md)
+
+[2019-1-26 CCPC-Wannafly Day7](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-26_day7.md)
+
+[2019-1-27 CCPC-Wannafly Day8](./Blog/ACM/ccpc-wannaflay/2019_winter_camp/2019-1-27_day8.md)
+
