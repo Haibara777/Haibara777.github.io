@@ -4,5 +4,7 @@
 ## ACM
 [2019-1-17 第一篇博客(A+B)](./Blog/ACM/someproblem/2019-1-17.md)
 
-[2019-1-28 CCPC-Wannafly_2019_winter_camp](./Blog/ACM/ccpc-wannaflay\2019_winter_camp\ccpc-wannafly-2019_winter_camp.md)与其拘泥于眼前的苟且，不如勇敢去开创未来
+[2019-1-28 CCPC-Wannafly_2019_winter_camp](./Blog/ACM/ccpc-wannaflay\2019_winter_camp\ccpc-wannafly-2019_winter_camp.md)
+
+与其拘泥于眼前的苟且，不如勇敢去开创未来
 
