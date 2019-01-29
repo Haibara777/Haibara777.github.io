@@ -7,3 +7,5 @@
 [2019-1-28 CCPC-Wannafly_2019_winter_camp](./Blog/ACM/ccpc-wannafly/2019_winter_camp/camp.md)<br />
 与其拘泥于眼前的苟且，不如勇敢去开创未来
 
+## Cetus
+[2019-1-29 VPS-搭梯子](./Blog/Cetus/2019/1/2019-1-29_vps.md)
