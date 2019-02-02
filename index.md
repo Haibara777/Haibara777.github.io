@@ -12,4 +12,6 @@
 
 ## Cetus
 
+[2019-2-1 CSAPP](./Blog/Cetus/2019/2/2019-2-1_CSAPP.md)第一章
+
 [2019-1-29 VPS-搭梯子](./Blog/Cetus/2019/1/2019-1-29_vps.md)
