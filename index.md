@@ -3,9 +3,11 @@
 ------------------------
 ## ACM
 
-[2019-2-3 又是二分](./Blog/ACM/2019/2/2019-2-3.md)HDU-4190 Codeforces-847B
+[2019-2-4 又过年了。。](./Blog/ACM/2019/2/2019-2-4.md) Codeforces Round \#537(Div 2)
 
-[2019-1-30 没想到回来也自闭](./Blog/ACM/2019/1/2019-1-30.md)HDU-6231 K-th Number
+[2019-2-3 又是二分](./Blog/ACM/2019/2/2019-2-3.md) HDU-4190 Codeforces-847B
+
+[2019-1-30 没想到回来也自闭](./Blog/ACM/2019/1/2019-1-30.md) HDU-6231 K-th Number
 
 [2019-1-28 CCPC-Wannafly_2019_winter_camp](./Blog/ACM/ccpc-wannafly/2019_winter_camp/camp.md)<br />
 与其拘泥于眼前的苟且，不如勇敢去开创未来
@@ -14,6 +16,6 @@
 
 ## Cetus
 
-[2019-2-1 CSAPP](./Blog/Cetus/2019/2/2019-2-1_CSAPP.md)第一章
+[2019-2-1 CSAPP](./Blog/Cetus/2019/2/2019-2-1_CSAPP.md) 第一章
 
 [2019-1-29 VPS-搭梯子](./Blog/Cetus/2019/1/2019-1-29_vps.md)
