@@ -3,6 +3,8 @@
 ------------------------
 ## ACM
 
+[2019-2-9 Codedorces 2017 JUST Programming Contest 4.0](./Blog/ACM/2019/2/2019-2-9.md)
+
 [2019-2-8 今日份杂题](./Blog/ACM/2019/2/2019-2-8.md) 离散化+树状数组+逆序对，单调栈
 
 [2019-2-4 又过年了。。](./Blog/ACM/2019/2/2019-2-4.md) Codeforces Round \#537(Div 2)
