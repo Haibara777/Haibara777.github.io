@@ -3,7 +3,7 @@
 ------------------------
 ## ACM
 
-[2019-2-9 CSAPP又咕了。。](./Blog/ACM/2019/2/2019-2-12.md) Codeforces Round #538 (Div. 2)
+[2019-2-12 CSAPP又咕了。。](./Blog/ACM/2019/2/2019-2-12.md) Codeforces Round #538 (Div. 2)
 
 [2019-2-9 Codedorces 2017 JUST Programming Contest 4.0](./Blog/ACM/2019/2/2019-2-9.md)
 
