@@ -28,6 +28,10 @@
 
 ## Cetus
 
+[2019-2-20 Algorithm_Dynamic programming](./Blog/Cetus/2019/2/2019-2-20_Algorithm_leetCode583.md) 583.Delete Operation for Two Strings
+
+[2019-2-20 Algorithm_Divide and conquer](./Blog/Cetus/2019/2/2019-2-20_Algorithm_leetCode43.md) 43. Multiply Strings
+
 [2019-2-1 CSAPP](./Blog/Cetus/2019/2/2019-2-1_CSAPP.md) 第一章
 
 [2019-1-29 VPS-搭梯子](./Blog/Cetus/2019/1/2019-1-29_vps.md)
