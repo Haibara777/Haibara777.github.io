@@ -3,7 +3,7 @@
 ------------------------
 ## ACM
 
-[2019-2-15 今天我学算法啦](./Blog/ACM/2019/2/2019-2-20.md) Educational Codeforces Round 60 (Rated for Div. 2)
+[2019-2-20 今天我学算法啦](./Blog/ACM/2019/2/2019-2-20.md) Educational Codeforces Round 60 (Rated for Div. 2)
 
 [2019-2-18 学什么车！](./Blog/ACM/2019/2/2019-2-18.md) Codeforces Round #539 (Div. 2)
 
