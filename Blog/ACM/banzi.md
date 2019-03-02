@@ -17,7 +17,8 @@
 #include<ctime>
 #define ll long long
 using namespace std;
-const int N=4e4+5,M=1e9+7;
+const int N=2e4+10,M=1e5+3;
+const double Pi=acos(-1.0);
 inline int read()
 {
     int x=0,f=1;char ch=getchar();

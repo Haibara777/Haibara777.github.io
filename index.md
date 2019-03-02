@@ -3,6 +3,8 @@
 ------------------------
 ## ACM
 
+[2019-3-1 要开学啦](./Blog/ACM/2019/3/2019-3-2.md)Codeforces Round #542 \[Alex Lopashev Thanks-Round\]
+
 [2019-3-1 咕了一周。。。](./Blog/ACM/2019/3/2019-3-1.md)Codeforces Round #541 (Div. 2)
 
 [2019-2-21 BZOJ 1001](./Blog/ACM/2019/2/2019-2-21_bzoj_1001.md) \[BeiJing2006\]狼抓兔子
