@@ -3,7 +3,7 @@
 ------------------------
 ## ACM
 
-[2019-3-1 要开学啦](./Blog/ACM/2019/3/2019-3-2.md)Codeforces Round #542 \[Alex Lopashev Thanks-Round\]
+[2019-3-1 要开学啦](./Blog/ACM/2019/3/2019-3-2.md) Codeforces Round #542 \[Alex Lopashev Thanks-Round\]
 
 [2019-3-1 咕了一周。。。](./Blog/ACM/2019/3/2019-3-1.md)Codeforces Round #541 (Div. 2)
 
