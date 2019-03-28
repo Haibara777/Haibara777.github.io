@@ -3,6 +3,8 @@
 ------------------------
 ## ACM
 
+[2019-3-28 我曾以为我会并查集](./Blog/ACM/2019/3/2019-3-28.md) POJ-1733 Parity game（咕咕咕）
+
 [2019-3-6 补题ing](./Blog/ACM/2019/3/2019-3-6.md) Codeforces Round #540 (Div. 3) Virtual participation
 
 [2019-3-2 要开学啦](./Blog/ACM/2019/3/2019-3-2.md) Codeforces Round #542 \[Alex Lopashev Thanks-Round\]
