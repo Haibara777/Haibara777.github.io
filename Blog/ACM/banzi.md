@@ -76,28 +76,6 @@ void add(int x,int y)
 ## 矩阵快速幂娘
 
 ```c++
-#include<iostream>
-#include<cstdio>
-#include<algorithm>
-#include<cstring>
-#include<cmath>
-#include<queue>
-#include<stack>
-#include<vector>
-#include<string>
-#include<map>
-#include<set>
-#include<ctime>
-#define ll long long
-using namespace std;
-const int N=1005,M=1e9+7;
-inline int read()
-{
-    int x=0,f=1;char ch=getchar();
-    while(ch<'0'||ch>'9'){if(ch=='-')f=-1;ch=getchar();}
-    while(ch>='0'&&ch<='9'){x=x*10+ch-'0';ch=getchar();}
-    return x*f;
-}
 struct mat
 {
     ll a[105][105];
@@ -159,6 +137,73 @@ int main()
     }
     mat ans=mqpow(c,n);
     cout<<ans.a[1][1]%M<<endl;
+}
+```
+
+```c++
+struct mat
+{
+    int a[5][5];
+    void res(){
+        for(int i=1;i<=n;i++)
+            for(int j=1;j<=n;j++)
+                a[i][j]=(i==j)?1:0;
+    }
+    void set(ll k){
+        for(int i=1;i<=n;i++)
+            for(int j=1;j<=n;j++)
+                a[i][j]=k;
+    }
+};
+mat mul(mat y,mat x)
+{
+    mat ans;
+    ans.set(0);
+    for(int i=1;i<=n;i++)
+        for(int j=1;j<=n;j++)
+            for(int k=1;k<=n;k++)
+            {
+                ans.a[i][j]+=x.a[i][k]*y.a[k][j]%M;
+                ans.a[i][j]%=M;
+            }
+    return ans;
+}
+mat mqpow(mat x,int y){
+    mat h=x,ans;
+    ans.set(0);
+    ans.a[4][1]=2;
+    ans.a[3][1]=4;
+    ans.a[2][1]=6;
+    ans.a[1][1]=9;
+    while(y){
+        if(y&1)ans=mul(ans,h);
+        h=mul(h,h);
+        y>>=1;
+    }
+    return ans;
+}
+int main()
+{
+    //ios::sync_with_stdio(false);
+    int L;
+    mat p;
+    n=4;
+    p.set(0);
+    p.a[1][1]=p.a[1][3]=p.a[1][4]=1;
+    p.a[2][1]=p.a[3][2]=p.a[4][3]=1;
+    while(~scanf("%d%d",&L,&M)){
+        if(L<=4){
+            if(L==0)printf("0\n");
+            if(L==1)printf("%d\n",2%M);
+            if(L==2)printf("%d\n",4%M);
+            if(L==3)printf("%d\n",6%M);
+            if(L==4)printf("%d\n",9%M);
+        }
+        else{
+            mat ans=mqpow(p,L-4);
+            printf("%d\n",ans.a[1][1]%M);
+        }
+    }
 }
 ```
 
@@ -516,7 +561,15 @@ int main()
     }
 }
 ```
-
+```c++
+void discrete(){
+    sort(a+1,a+t+1);
+    n=unique(a+1,a+t+1)-(a+1);
+}
+int id(int x){
+    return lower_bound(a+1,a+n+1,x)-a;
+}
+```
 ### 二维
 
 ```c++
