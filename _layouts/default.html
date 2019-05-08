@@ -12,8 +12,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
+    <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -38,6 +37,7 @@
         </ul>
         {% endif %}
       </header>
+    <div class="wrapper">
       <section>
 
       {{ content }}
@@ -53,7 +53,7 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML,/javascripts/MathJaxLocal.js">
   </script> 
-  <div id="particles-js" style='position:fixed; z-index:0;'></div>
+  <div id="particles-js" style='position:fixed; z-index:-1;'></div>
 
     <div class="content text-md-center">
         <div class="inner">
