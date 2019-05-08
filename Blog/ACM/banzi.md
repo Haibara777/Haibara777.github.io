@@ -1109,9 +1109,12 @@ int main()
 }
 ```
 
-## lca（倍增）
+## lca
+
+### 倍增
 
 ```c++
+//HDU-2586
 int f[N][20],d[N],dist[N],t;
 int ver[2*N],Next[N*2],edge[N*2],head[N],tot=0;
 void add(int x,int y,int v){
@@ -1167,6 +1170,70 @@ int main()
 			cin>>x>>y;
 			int root=lca(x,y);
 			cout<<dist[x]+dist[y]-2*dist[root]<<endl;
+		}
+	}
+}
+```
+
+### tarjan
+
+```c++
+//HDU-2586
+int fa[N];
+int get(int x){
+	if(x==fa[x])return x;
+	return fa[x]=get(fa[x]);
+}
+int head[N],ver[N*2],edge[N*2],Next[N*2],tot=0;
+void add(int x,int y,int z){
+	ver[++tot]=y,edge[tot]=z;
+	Next[tot]=head[x],head[x]=tot;
+}
+vector<int> q[N],q_id[N];
+void add_query(int x,int y,int id){
+	q[x].push_back(y),q_id[x].push_back(id);
+	q[y].push_back(x),q_id[y].push_back(id);
+}
+int v[N],d[N],ans[N];
+void tarjan(int x){
+	v[x]=1;
+	for(int i=head[x];i;i=Next[i]){
+		int y=ver[i],w=edge[i];
+		if(v[y])continue;
+		d[y]=d[x]+w;
+		tarjan(y);
+		fa[y]=x;
+	}
+	for(int i=0;i<q[x].size();i++){
+		int y=q[x][i],id=q_id[x][i];
+		if(v[y]!=2)continue;
+		int lca=get(y);
+		ans[id]=min(ans[id],d[x]+d[y]-2*d[lca]);
+	}
+	v[x]=2;
+}
+int main()
+{
+	//ios::sync_with_stdio(false);
+	int t;cin>>t;
+	while(t--){
+		int n=read(),m=read();
+		for(int i=1;i<=n;i++){
+			head[i]=0;fa[i]=i;v[i]=0;d[i]=0;
+			q[i].clear(),q_id[i].clear();
+		}
+		for(int i=1;i<n;i++){
+			int x=read(),y=read(),v=read();
+			add(x,y,v),add(y,x,v);
+		}
+		for(int i=1;i<=m;i++){
+			int x=read(),y=read();
+			add_query(x,y,i);
+			ans[i]=0x3f3f3f3f;
+		}
+		tarjan(1);
+		for(int i=1;i<=m;i++){
+			printf("%d\n",ans[i]);
 		}
 	}
 }
