@@ -12,6 +12,10 @@ body {
 	background-color: white;
 }
 
+.wrapper{
+	z-index:999;
+}
+
 .content {
 	display: absolute;
 	width: 100%;
