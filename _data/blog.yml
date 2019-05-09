@@ -4,13 +4,13 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: ACM
-  href: /ACM/
+  href: /acm/
 
 - name: Cetus
-  href: /Cetus/
+  href: /cetus/
 
 - name: Blue-whale
-  href: /Blue-whale/
+  href: /blue-whale/
 
 #- name: Database
 #  href: /database/
