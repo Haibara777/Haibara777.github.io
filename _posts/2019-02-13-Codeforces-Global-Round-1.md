@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Codeforces Global Round 1"
+date:   2019-02-13
+desc: "Codeforces Global Round 1"
+keywords: "Codedorces"
+categories: [Acm]
+tags: [Codedorces]
+icon: icon-html
+---
 
 # Codeforces Global Round 1
 ____

@@ -1,6 +1,14 @@
+---
+layout: post
+title:  "Educational Codeforces Round 60 (Rated for Div. 2)"
+date:   2019-02-20
+desc: "Educational Codeforces Round 60 (Rated for Div. 2)"
+keywords: "Codeforces"
+categories: [Acm]
+tags: [Codeforces]
+icon: icon-html
+---
 
-# [Educational Codeforces Round 60 (Rated for Div. 2)](http://codeforces.com/contest/1117)
-___
 
 >果然还是只能做出两题啊，这次c题d题对我来说太硬核了，e题是个交互题，一般不会太难。。。吧。。。有时间再去补吧
 

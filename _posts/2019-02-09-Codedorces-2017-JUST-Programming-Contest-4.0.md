@@ -1,6 +1,15 @@
+---
+layout: post
+title:  "Codedorces 2017 JUST Programming Contest 4.0"
+date:   2019-02-09
+desc: "Codedorces 2017 JUST Programming Contest 4.0"
+keywords: "Codedorces"
+categories: [Acm]
+tags: [Codedorces]
+icon: icon-html
+---
 
-# Codedorces 2017 JUST Programming Contest 4.0
-___
+
 >这真的不是我今天想补的那一套题。。。。
 >
 >奥对。。又咕CSAPP了。。。

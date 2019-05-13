@@ -4,7 +4,7 @@ title:  "与其拘泥于眼前的苟且，不如勇敢去开创未来"
 date:   2019-01-28
 desc: "2019 CCPC Wannafly Winter Camp"
 keywords: "Camp"
-categories: [Acm]
+categories: [Acm,Life]
 tags: [2019 CCPC Wannafly Winter Camp,Conclusion]
 icon: icon-html
 ---
