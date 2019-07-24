@@ -78,6 +78,8 @@ icon: icon-html
 
 ## 关于选拔
 
+>想做的事太少，而时间太多
+
 最重要的一点：
 
 **智力因素在选拔条件之外**
@@ -203,4 +205,6 @@ icon: icon-html
 
 ## 那么~~哪里可以买到~~怎么加入呢
 
- <img src="{{ site.img_path }}/2019-acm-fresher/qrcode_1563950556454.jpg" width="75%">
+<br>
+
+<img src="{{ site.img_path }}/2019-acm-fresher/qrcode_1563950556454.jpg" width="75%">
